@@ -32,11 +32,11 @@ SQL • R • Excel • Tableau • Data Cleaning • Data Visualization • Bas
 ---
 
 ## 📄 Resume
-🔗 Resume PDF: (file:///C:/Users/DELL/Downloads/Resume_updated.pdf)
+Resume: [Download PDF](Resume_updated.pdf)
 
 ---
 
 ## 📫 Contact
 - Email: umavybhavi@gmail.com  
-- LinkedIn: (paste your LinkedIn link here)  
+- LinkedIn: https://www.linkedin.com/in/ambavaram-uma-vybhavi-646119233/  
 - GitHub: https://github.com/umavybhavi-netizen
